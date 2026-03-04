@@ -77,6 +77,4 @@ Tasks are stored in `tasks.txt` in JSON Lines format:
 {"id":2,"title":"Buy groceries","description":"Milk","completed":true}
 ```
 
-## Author
 
-Suman Das
